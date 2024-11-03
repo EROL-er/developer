@@ -1,0 +1,165 @@
+
+ 
+.subscribe-button{
+  background-color: rgb(200, 00, 00);
+  color: white;
+  border: none;
+  height: 36px;
+  width: 105px;
+  border-radius: 2px;
+  cursor: pointer;
+  transition: opacity 0.15s;
+  margin-top: 8px;
+  margin-bottom: 8px;
+  margin-right: 8px;
+  margin-left: 8px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 16px;
+  padding-right: 16px;
+
+}
+
+.subscribe-button:hover{
+opacity: 0.8; }
+.subscribe-button:active{
+opacity: 0.5;
+}
+
+.join-button{
+  background-color: white;
+  border-color: rgb(6, 95, 212);
+  border-style: solid;
+  border-width: 1px;
+  color: rgb(6, 95, 212);
+  border-radius: 2px;
+  cursor: pointer;
+  transition: background-color 0.15s,
+  color 0.15s;
+  padding-inline: 30px;
+}
+.join-button:hover{
+  background-color:  rgb(6, 95, 212);
+  color: white;
+  opacity: 0.9;
+}
+.join-button:active{
+  opacity: 0.7;
+}
+
+.Tweet{
+  background-color: rgb(29, 155, 240);
+  color: white;
+  border: none;
+  height: 36px;
+  width: 74px;
+  border-radius: 18px;
+  font-weight: bold;
+  font-size: 15px;
+  cursor: pointer;
+  margin-left: 8px;
+  transition: box-shadow 0.15s;
+}
+.Tweet:hover{
+  box-shadow: 1px 5px 10px rgba(0, 0, 0, 0.35);
+
+}
+
+.request-now{
+  background-color: black;
+  color: white;
+  height: 36px;
+  width: 105px;
+  cursor: pointer;
+  border: none;
+  transition: opacity 0.2s;
+}
+.request-now:hover{
+  opacity: 0.8;
+}
+.add-to-cart{
+  background-color: rgb(255, 216, 20);
+  border: none;
+  border-radius: 1;
+  height: 36px;
+  width: 125px;
+  border-radius: 50px;
+  cursor: pointer;
+}
+.sign-up{
+  background-color: rgb(46, 164, 79);
+  color: white;
+  border: none;
+  border-radius: 1;
+  height: 40px;
+  width: 90px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition:  box-shadow 0.15s;
+  
+}
+.sign-up:hover{
+  box-shadow: 1px 5px 10px rgba(0, 0, 0, 0.35);
+  /* opacity: 0.8; */
+}
+.get-started{
+background-color: rgb(121, 82, 179);
+color: white;
+  border: none;
+  height: 40px;
+  width: 100px;
+  cursor: pointer;
+}  
+.apply{
+background-color: rgb(10, 102, 194);
+color: white;
+height: 40px;
+width: 205px;
+border-radius: 50px;
+border: none;
+font-weight: bold;
+transition: box-shadow 0.15s,
+background-color 0.15s
+}
+.apply:hover{
+box-shadow: 1px 5px 10px rgba(0, 0, 0, 0.35);
+background-color: rgb(35, 75, 204);
+}
+.download{
+background-color: gray;
+color: white;
+height: 40px;
+width: 105px;
+transition: background-color 0.25s,
+ color 0.25s;
+}
+.download:hover{
+background-color: white;
+color: gray;
+}
+.Google{
+background-color: lightblue;
+height: 40px;
+width: 205px;
+border-radius: 35px;
+font-weight: bold;
+color: rgb(217, 71, 71);
+cursor: pointer;
+border: 5px ;
+border-bottom: 50px;
+transition: box-shadow 0.15s,
+color 0.15s,
+padding-top 0.15s,
+padding-bottom 0.15s,
+padding-left 0.15s,
+padding-right 0.15s;
+}
+.Google:hover{
+color: orange;
+box-shadow: 1px 5px 10px rgba(0, 0, 0, 0.35);
+padding-top: 10px;
+padding-bottom: 10px;
+padding-left: 16px;
+padding-right: 16px;
+
+}

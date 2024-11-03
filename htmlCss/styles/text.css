@@ -1,0 +1,44 @@
+
+p{
+  font-family: roboto;
+  color: rgb(96, 96, 96);
+  font-size: 14px;
+}
+.video{
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  font-size: 18px;
+  width: 280px;
+  line-height: 24px;
+  margin-bottom: 5px;
+}
+.stats{
+  margin-top: 0;
+  
+}
+.Brownlee{
+  font-weight: bold;
+  margin-top: 20;
+}
+.description{
+  margin-top: 20;
+  width: 280px;
+  line-height: 22px;
+}
+.shop{
+  background-color: rgb(227, 65, 64);
+  margin-bottom: 50px;
+  font-size: 14px;
+  color: white;
+  text-align: center;
+  padding: 18px;
+  padding-bottom: 18px;
+
+}
+.s:hover{
+  text-decoration: underline;
+}
+.s{
+  text-decoration: none;
+  color: white;
+}
